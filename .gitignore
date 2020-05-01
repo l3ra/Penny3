@@ -15,3 +15,5 @@
 out
 *.ipr
 *.iws
+build
+.idea
